@@ -2,7 +2,8 @@
 
 ## Prerequisites:
 1. [Complete Django backend first](https://github.com/Fulim13/react_django_auth_backend) or you can create your own backend or using Baas like Firebase
-2. Basic knowledge of React
+2. Basic Knowledge of Javascript
+3. Basic knowledge of React
 
 ## Step 1: Install dependencies
 ``` 
